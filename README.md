@@ -5,7 +5,7 @@
 
  - 🌱 I’m currently learning **AI automation**
 
-- 👨‍💻 All of my projects are available at [LinkdIn or github](LinkdIn or github)
+- 👨‍💻 All of my projects are available at [LinkdIn or github]
 
 - 📫 How to reach me **kumarlakshay545@gmail.com**
 
